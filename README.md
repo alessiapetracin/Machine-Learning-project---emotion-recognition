@@ -1,4 +1,4 @@
-# Machine-Learning-project: emotion recognition
+# Machine Learning project: emotion recognition
 
 ### Introduction ###
 
