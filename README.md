@@ -23,7 +23,7 @@ An environment with:
 
 ### How to run the project ###
 
-Download the zip folder containing the .ipynb file and the dataset. Modify the path to the directory in the .ipynb file to your actual directory. I advise you to run the project on Google Colab, due to the specifics in mounting content. If you decide to, grant access to your Google Drive profile, where the dataset has to be present, to Google Colab.
-Otherwise, with minor adjustments to the directory path, the file can be run on other IDEs.
+Download the zip folder containing the .ipynb file and the datasets RealLifeMask and FER_masked_Unmasked. Modify the paths to the directory in the .ipynb file to your actual directory. I advise you to run the project on Google Colab, due to the specifics in mounting content. Grant access to your Google Drive profile, where the datasets should be present, to Google Colab.
+Otherwise, with minor adjustments to the directory paths, the file can be run on other IDEs.
   
 
